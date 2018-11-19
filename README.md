@@ -42,9 +42,9 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 
 
 ## Screenshots
-<img src="https://github.com/differenz-system/Addressbook.NativeScript/blob/master/assets/screenshots/login.PNG"> <img src="https://github.com/differenz-system/Addressbook.NativeScript/blob/master/assets/screenshots/create.PNG"> <img src="https://github.com/differenz-system/Addressbook.NativeScript/blob/master/assets/screenshots/update.PNG"> 
+<img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/login.PNG"> <img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/create.PNG"> <img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/update.PNG"> 
 
 ## Support
-If you've found an error in this sample, please [report an issue](https://github.com/differenz-system/Addressbook.NativeScript/issues/new). You can also send your feedback and suggestions at info@differenzsystem.com
+If you've found an error in this sample, please [report an issue](https://github.com/differenz-system/Addressbook.NuxtJs/issues/new). You can also send your feedback and suggestions at info@differenzsystem.com
 
 Happy coding!

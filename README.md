@@ -43,10 +43,15 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 
 ## Screenshots
 **Login Screen**
+
 <img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/login.PNG"> 
+
 **Add/list  Contact**
+
 <img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/create.PNG"> 
+
 **Update Contact**
+
 <img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/update.PNG"> 
 
 ## Support

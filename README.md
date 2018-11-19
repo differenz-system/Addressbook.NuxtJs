@@ -42,7 +42,12 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 
 
 ## Screenshots
-<img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/login.PNG"> <img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/create.PNG"> <img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/update.PNG"> 
+**Login Screen**
+<img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/login.PNG"> 
+**Add/list  Contact**
+<img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/create.PNG"> 
+**Update Contact**
+<img src="https://github.com/differenz-system/Addressbook.NuxtJs/blob/master/assets/screenshots/update.PNG"> 
 
 ## Support
 If you've found an error in this sample, please [report an issue](https://github.com/differenz-system/Addressbook.NuxtJs/issues/new). You can also send your feedback and suggestions at info@differenzsystem.com
